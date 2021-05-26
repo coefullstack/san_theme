@@ -6,20 +6,33 @@ homepage:
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
+  
 
 dependencies:
   flutter:
     sdk: flutter
+  shrine_images: ^1.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+    
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
 flutter:
+
+  fonts:
+    - family: Santander
+      fonts:
+        - asset: fonts/SantanderText-Bold.ttf
+        - asset: fonts/SantanderText-Italic.ttf
+          style: italic
+    - family: SantanderHeadline
+      fonts:
+        - asset: fonts/SantanderHeadline-Regular.ttf    
 
   # To add assets to your package, add an assets section, like this:
   # assets:
