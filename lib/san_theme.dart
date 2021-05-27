@@ -1,18 +1,38 @@
 library san_theme;
 
 import 'package:flutter/material.dart';
+
 import 'package:san_theme/SanTextThemes.dart';
 
-/*
-  Class to define the styles of whole application.
-  @date: 25-05-2021
-  @author: Jorge Piris Ruiz
+import 'SanColors.dart';
 
-*/
-
+///Santander Default Theme
+///
+///Definition of principal styles of whole appplication.
+///
+///This defines the following styles:
+///
+///- AppBarTheme
+///
+///- Primary Color
+///
+///- Accent Color
+///
+///- Bottom App Bar Color
+///
+///- Background Color
+///
+///- Text Theme
 class SanTheme {
   SanTheme._();
   static final ThemeData themeData = ThemeData(
+      appBarTheme: AppBarTheme(
+          color: SanColors.sanStandard12, titleTextStyle: SanTextThemes.appBar),
+      primaryColor: SanColors.sanStandard12,
+      accentColor: SanColors.sanStandard12,
+      accentColorBrightness: Brightness.light,
+      bottomAppBarColor: SanColors.sanStandard12,
+      backgroundColor: Colors.white,
       textTheme: TextTheme(
           headline1: SanTextThemes.headerTitle,
           headline2: SanTextThemes.sectionTitle,

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-/*
-  Class to define the text colors of application.
-  @date: 25-05-2021
-  @author: Jorge Piris Ruiz
-
-*/
+///Santander Default Color
+///
+///Class to define the colors of Santander Bank.
+///
+///19 Colors are defined. Color 11 is undefined.
+///This colors are used to style the colors of whole application.
 class SanColors {
   // This class is not meant to be instantiated or extended; this constructor
   // prevents instantiation and extension.
