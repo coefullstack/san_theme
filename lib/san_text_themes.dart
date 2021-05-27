@@ -4,12 +4,32 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:san_theme/san_colors.dart';
 
-/*
-  Class to define the text styles of whole application.
-  @date: 25-05-2021
-  @author: Jorge Piris Ruiz
-
-*/
+///Santander default Text Themes
+///
+///This class the following santander themes.
+///
+///- appBar
+///
+///- headerTitle
+///
+///- sectionTitle
+///
+///- moduleTitle
+///
+///- moduleLinkTitle
+///
+///- bodyTitle
+///
+///- bodyOustandingText
+///
+///- bodyText
+///
+///- bodyTextOutstandingModule
+///
+///- categoryHashtag
+///
+///- informationLink
+///
 class SanTextThemes {
   // This class is not meant to be instantiated or extended; this constructor
   // prevents instantiation and extension.
