@@ -2,9 +2,9 @@ library san_theme;
 
 import 'package:flutter/material.dart';
 
-import 'package:san_theme/SanTextThemes.dart';
+import 'package:san_theme/san_text_themes.dart';
 
-import 'SanColors.dart';
+import 'san_colors.dart';
 
 ///Santander Default Theme
 ///

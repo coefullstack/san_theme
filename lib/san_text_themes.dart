@@ -2,7 +2,7 @@ library san_theme;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:san_theme/SanColors.dart';
+import 'package:san_theme/san_colors.dart';
 
 /*
   Class to define the text styles of whole application.
