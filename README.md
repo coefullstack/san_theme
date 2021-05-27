@@ -22,8 +22,13 @@ in a Santander App. The 4 classes defined are:
 The class san_colors defines 19 default colors usable for the application. Colors are of type 
 Color (class defined by Flutter). This colors are selected from a Santander reference to default 
 
+```dart
+Color color = SanColors.sanStandard1;
+```
 
 To use a standard color from this package use SanColors.sanStandard[1-20].
+
+
 
 **important** - Color 11 is not defined.
 
@@ -36,6 +41,11 @@ has a size of:
 -  Small: Height 165, Width 249
 
 To load an image from this package use SanImage.\[small/medium\]imageName.
+
+```dart
+Image image = SanImage.small_strong_man_swim_on_ashpalt_road;
+```
+
 
 ## San Text Themes
 The class san_text_themes defines 12 textStyles.Styles are of type TextStyle (class defined by Flutter). 
@@ -55,6 +65,11 @@ and use default Santander fonts. The styles defined are:
 
 To use any of this text styles use SanTextTheme.textStyleName.
 
+```dart
+Text text = Text('a',style: SanTextTheme.headerTitle);
+```
+
+
 ## San Theme
 The class san_theme defines a style for whole application. Style is of type ThemeData (class defined by Flutter).
 This ThemeData defines the following properties:
@@ -66,3 +81,7 @@ This ThemeData defines the following properties:
 - Text Theme
 
 To use this ThemeData call SanTheme.themeData.
+
+```dart
+ThemeData theme = SanTheme.themeData;
+```
