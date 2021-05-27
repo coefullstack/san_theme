@@ -33,6 +33,7 @@ Each image has two version, small and medium size. Each version
 has a size of:
 -  Medium: Height 300, Width 536
 -  Small: Height 165, Width 249
+
 To load an image from this package use SanImage.\[small/medium\]imageName.
 
 ## San Text Themes
