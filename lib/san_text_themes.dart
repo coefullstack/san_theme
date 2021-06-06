@@ -66,7 +66,7 @@ class SanTextThemes {
       fontWeight: FontWeight.bold,
       fontFamily: 'Santander');
   static const TextStyle bodyText = TextStyle(
-      fontSize: 16, color: SanColors.sanStandard7, fontFamily: 'Santander');
+      fontSize: 116, color: SanColors.sanStandard7, fontFamily: 'Santander');
   static const TextStyle bodyTextOutstandingModule = TextStyle(
       fontSize: 12, color: SanColors.sanStandard8, fontFamily: 'Santander');
   static const TextStyle categoryHashtag =
