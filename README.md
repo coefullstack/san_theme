@@ -11,7 +11,7 @@ dependencies:
   san_theme:
     git:
       url: git://github.com/coefullstack/san_theme.git
-      ref: master     
+      ref: master
 ```
 
 2. Add the needed imports in the dart files where you need the presentation magic:
