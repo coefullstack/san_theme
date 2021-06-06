@@ -4,11 +4,41 @@ Santander Flutter Theme
 
 ## Getting Started
 
-This project is a starting point for a Dart
+This project is a Dart Package
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
 multiple Flutter or Dart projects.
 
+## Installation.
+
+Three simple steps:
+
+1. Edit the __pubspec.yml__ file of your application and add these lines in the _dependencies:_ section:
+
+```yml
+dependencies:
+  san_theme:
+    git:
+      url: git://github.com/coefullstack/san_theme.git
+      ref: master     
+```
+
+2. Add the needed imports in the files where you need the presentation magic provided:
+
+```dart
+import 'package:san_theme/san_theme.dart';
+import 'package:san_theme/san_images.dart'; //Optional: only if you intend to use predefined images
+```
+
+3. Specify _SanTheme.themeData_ to the _theme_ property of your __MaterialApp__ instance and your App (_any_ App!) will instantly be graced with the Santander Theme default colors and styles!
+
+```dart
+    return MaterialApp(
+      theme: SanTheme.themeData,
+```
+
+
+## Structure
 
 The package defines 4 classes, meant to generate and use default themes of Santander bank
 in a Santander App. The 4 classes defined are:
