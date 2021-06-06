@@ -5,7 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:san_theme/san_colors.dart';
 
 class SantanderFont {
-  static const String santander = 'packages/san_theme/SantanderText';
+  static const String santanderText = 'packages/san_theme/SantanderText';
+  static const String santanderHeadline =
+      'packages/san_theme/SantanderHeadline';
 }
 
 ///Santander default Text Themes
