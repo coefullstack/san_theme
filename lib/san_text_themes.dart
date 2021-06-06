@@ -44,25 +44,25 @@ class SanTextThemes {
   static const TextStyle appBar =
       TextStyle(fontFamily: 'packages/san_theme/Santander');
   static const TextStyle headerTitle = TextStyle(
-      fontSize: 36, fontFamily: 'packages/san_theme/SantanderHeadline');
+      fontSize: 136, fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle sectionTitle = TextStyle(
-      fontSize: 32,
+      fontSize: 132,
       color: SanColors.sanStandard12,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle moduleTitle = TextStyle(
-      fontSize: 18,
+      fontSize: 118,
       color: SanColors.sanStandard9,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle moduleLinkTitle = TextStyle(
-      fontSize: 18,
+      fontSize: 118,
       color: SanColors.sanStandard4,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle bodyTitle = TextStyle(
-      fontSize: 18,
+      fontSize: 118,
       color: SanColors.sanStandard18,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle bodyOutstandingText = TextStyle(
-      fontSize: 16,
+      fontSize: 116,
       color: SanColors.sanStandard7,
       fontWeight: FontWeight.bold,
       fontFamily: 'packages/san_theme/Santander');
