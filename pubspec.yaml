@@ -26,10 +26,10 @@ flutter:
   fonts:
     - family: Santander
       fonts:
-        - asset: fonts/SantanderText-Bold.ttf
-        - asset: fonts/SantanderText-Italic.ttf
+        - asset: lib/fonts/SantanderText-Bold.ttf
+        - asset: lib/fonts/SantanderText-Italic.ttf
           style: italic
     - family: SantanderHeadline
       fonts:
-        - asset: fonts/SantanderHeadline-Regular.ttf    
+        - asset: lib/fonts/SantanderHeadline-Regular.ttf    
 

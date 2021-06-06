@@ -4,6 +4,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:san_theme/san_colors.dart';
 
+class SantanderFont {
+  static const String santander = 'packages/san_theme/Santander';
+}
+
 ///Santander default Text Themes
 ///
 ///This class the following santander themes.
