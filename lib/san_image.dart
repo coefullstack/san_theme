@@ -16,7 +16,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_agent_in_shirt_with_headset = Image(
-    image: AssetImage('assets/images/3016agent-in-shirt-with-headset.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/3016agent-in-shirt-with-headset.jpg'),
     width: 536,
     height: 300,
   );
@@ -25,7 +26,7 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_tire_in_snow = Image(
-    image: AssetImage('assets/images/5270tire-in-snow.jpg'),
+    image: AssetImage('packages/san_theme/images/5270tire-in-snow.jpg'),
     width: 536,
     height: 300,
   );
@@ -34,8 +35,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_man_and_woman_working_in_the_office = Image(
-    image:
-        AssetImage('assets/images/5984man-and-woman-working-in-the-office.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/5984man-and-woman-working-in-the-office.jpg'),
     width: 536,
     height: 300,
   );
@@ -44,7 +45,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_strong_man_swim_on_ashpalt_road = Image(
-    image: AssetImage('assets/images/6247strong-man-swim-on-asphalt-road.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/6247strong-man-swim-on-asphalt-road.jpg'),
     width: 536,
     height: 300,
   );
@@ -53,7 +55,7 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_people_at_meeting = Image(
-    image: AssetImage('assets/images/7054people-at-meeting.jpg'),
+    image: AssetImage('packages/san_theme/images/7054people-at-meeting.jpg'),
     width: 536,
     height: 300,
   );
@@ -63,7 +65,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_futuristic_robot_hand_for_a_handshake = Image(
     image: AssetImage(
-        'assets/images/11238futuristic-robotic-hand-for-a-handshake.jpg'),
+        'packages/san_theme/images/11238futuristic-robotic-hand-for-a-handshake.jpg'),
     width: 536,
     height: 300,
   );
@@ -73,7 +75,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_young_man_using_browsing_smarthphone = Image(
     image: AssetImage(
-        'assets/images/13612young-man-using-browsing-smartphone.jpg'),
+        'packages/san_theme/images/13612young-man-using-browsing-smartphone.jpg'),
     width: 536,
     height: 300,
   );
@@ -83,7 +85,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_successful_business_group_of_people_at_work = Image(
     image: AssetImage(
-        'assets/images/14638successful-business-group-of-people-at-work.jpg'),
+        'packages/san_theme/images/14638successful-business-group-of-people-at-work.jpg'),
     width: 536,
     height: 300,
   );
@@ -93,7 +95,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_sporty_man_look_at_his_smartwatch = Image(
     image: AssetImage(
-        'assets/images/19402sporty-man-looking-at-his-smartwatch.jpg'),
+        'packages/san_theme/images/19402sporty-man-looking-at-his-smartwatch.jpg'),
     width: 536,
     height: 300,
   );
@@ -102,8 +104,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_female_hands_making_use_of_tablet = Image(
-    image:
-        AssetImage('assets/images/22847female-hands-making-use-of-tablet.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/22847female-hands-making-use-of-tablet.jpg'),
     width: 536,
     height: 300,
   );
@@ -112,8 +114,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_business_people_signing_a_contract = Image(
-    image:
-        AssetImage('assets/images/25387business-people-signing-a-contract.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/25387business-people-signing-a-contract.jpg'),
     width: 536,
     height: 300,
   );
@@ -123,7 +125,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_man_measuring_with_yellow_meassure_tape = Image(
     image: AssetImage(
-        'assets/images/25535man-measuring-with-yellow-meassure-tape.jpg'),
+        'packages/san_theme/images/25535man-measuring-with-yellow-meassure-tape.jpg'),
     width: 536,
     height: 300,
   );
@@ -133,7 +135,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_young_redhead_woman_talking_on_phone = Image(
     image: AssetImage(
-        'assets/images/26612young-redhead-woman-talking-on-phone.jpg'),
+        'packages/san_theme/images/26612young-redhead-woman-talking-on-phone.jpg'),
     width: 536,
     height: 300,
   );
@@ -144,7 +146,7 @@ class SanImage {
   static const Image medium_caucassian_businesswoman_working_with_papers =
       Image(
     image: AssetImage(
-        'assets/images/27489caucasian-businesswoman-working-with-papers.jpg'),
+        'packages/san_theme/images/27489caucasian-businesswoman-working-with-papers.jpg'),
     width: 536,
     height: 300,
   );
@@ -153,7 +155,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_young_trendy_hipster_woman = Image(
-    image: AssetImage('assets/images/35383a-young-trendy-hipster-woman.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/35383a-young-trendy-hipster-woman.jpg'),
     width: 536,
     height: 300,
   );
@@ -162,7 +165,7 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_business_meeting = Image(
-    image: AssetImage('assets/images/38592business-meeting.jpg'),
+    image: AssetImage('packages/san_theme/images/38592business-meeting.jpg'),
     width: 536,
     height: 300,
   );
@@ -173,7 +176,7 @@ class SanImage {
   static const Image medium_caucassian_call_center_woman_help_desk_service =
       Image(
     image: AssetImage(
-        'assets/images/42003caucasian-call-center-woman-help-desk-service.jpg'),
+        'packages/san_theme/images/42003caucasian-call-center-woman-help-desk-service.jpg'),
     width: 536,
     height: 300,
   );
@@ -182,7 +185,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_start_up_business_team = Image(
-    image: AssetImage('assets/images/42236start-up-business-team.jpg'),
+    image:
+        AssetImage('packages/san_theme/images/42236start-up-business-team.jpg'),
     width: 536,
     height: 300,
   );
@@ -191,7 +195,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_people_joined_hand_together = Image(
-    image: AssetImage('assets/images/43861people-joined-hand-together.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/43861people-joined-hand-together.jpg'),
     width: 536,
     height: 300,
   );
@@ -200,7 +205,7 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_meeting_room = Image(
-    image: AssetImage('assets/images/48972meeting-room.jpg'),
+    image: AssetImage('packages/san_theme/images/48972meeting-room.jpg'),
     width: 536,
     height: 300,
   );
@@ -219,7 +224,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_two_business_people_with_wheelchair_and_vr = Image(
     image: AssetImage(
-        'assets/images/50016two-business-people-with-wheelchair-and-vr.jpg'),
+        'packages/san_theme/images/50016two-business-people-with-wheelchair-and-vr.jpg'),
     width: 536,
     height: 300,
   );
@@ -228,8 +233,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_caucasian_woman_with_a_smartphone = Image(
-    image:
-        AssetImage('assets/images/52049caucasian-woman-with-a-smartphone.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/52049caucasian-woman-with-a-smartphone.jpg'),
     width: 536,
     height: 300,
   );
@@ -239,7 +244,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_male_manager_presenting_at_informal_meeting = Image(
     image: AssetImage(
-        'assets/images/62403male-manager-presenting-at-informal-meeting.jpg'),
+        'packages/san_theme/images/62403male-manager-presenting-at-informal-meeting.jpg'),
     width: 536,
     height: 300,
   );
@@ -249,7 +254,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_busy_person_writing_maby_sticky_notes = Image(
     image: AssetImage(
-        'assets/images/66165busy-person-writing-many-sticky-notes.jpg'),
+        'packages/san_theme/images/66165busy-person-writing-many-sticky-notes.jpg'),
     width: 536,
     height: 300,
   );
@@ -259,7 +264,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_doctor_hands_with_prescription_at_clinic = Image(
     image: AssetImage(
-        'assets/images/74213doctor-hands-with-prescription-at-clinic.jpg'),
+        'packages/san_theme/images/74213doctor-hands-with-prescription-at-clinic.jpg'),
     width: 536,
     height: 300,
   );
@@ -269,7 +274,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_startup_business_team_brainstorming = Image(
     image: AssetImage(
-        'assets/images/79455startup-business-team-brainstorming.jpg'),
+        'packages/san_theme/images/79455startup-business-team-brainstorming.jpg'),
     width: 536,
     height: 300,
   );
@@ -278,7 +283,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_friends_holding_hands_together = Image(
-    image: AssetImage('assets/images/82661friends-holding-hands-together.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/82661friends-holding-hands-together.jpg'),
     width: 536,
     height: 300,
   );
@@ -289,7 +295,7 @@ class SanImage {
   static const Image medium_colleagues_working_together_in_modern_office =
       Image(
     image: AssetImage(
-        'assets/images/83602colleagues-working-together-in-modern-office.jpg'),
+        'packages/san_theme/images/83602colleagues-working-together-in-modern-office.jpg'),
     width: 536,
     height: 300,
   );
@@ -300,7 +306,7 @@ class SanImage {
   static const Image medium_business_team_giving_group_high_five_in_park =
       Image(
     image: AssetImage(
-        'assets/images/86479business-team-giving-group-high-five-in-park.jpg'),
+        'packages/san_theme/images/86479business-team-giving-group-high-five-in-park.jpg'),
     width: 536,
     height: 300,
   );
@@ -310,7 +316,7 @@ class SanImage {
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_businessman_entrepeneur_motivation = Image(
     image: AssetImage(
-        'assets/images/97075businessman-enterpreneur-motivation.jpg'),
+        'packages/san_theme/images/97075businessman-enterpreneur-motivation.jpg'),
     width: 536,
     height: 300,
   );
@@ -319,7 +325,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_agent_in_shirt_with_headset = Image(
-    image: AssetImage('assets/images/3016agent-in-shirt-with-headset.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/3016agent-in-shirt-with-headset.jpg'),
     width: 249,
     height: 165,
   );
@@ -328,7 +335,7 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_tire_in_snow = Image(
-    image: AssetImage('assets/images/5270tire-in-snow.jpg'),
+    image: AssetImage('packages/san_theme/images/5270tire-in-snow.jpg'),
     width: 249,
     height: 165,
   );
@@ -337,8 +344,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_man_and_woman_working_in_the_office = Image(
-    image:
-        AssetImage('assets/images/5984man-and-woman-working-in-the-office.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/5984man-and-woman-working-in-the-office.jpg'),
     width: 249,
     height: 165,
   );
@@ -347,7 +354,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_strong_man_swim_on_ashpalt_road = Image(
-    image: AssetImage('assets/images/6247strong-man-swim-on-asphalt-road.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/6247strong-man-swim-on-asphalt-road.jpg'),
     width: 249,
     height: 165,
   );
@@ -356,7 +364,7 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_people_at_meeting = Image(
-    image: AssetImage('assets/images/7054people-at-meeting.jpg'),
+    image: AssetImage('packages/san_theme/images/7054people-at-meeting.jpg'),
     width: 249,
     height: 165,
   );
@@ -366,7 +374,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_futuristic_robot_hand_for_a_handshake = Image(
     image: AssetImage(
-        'assets/images/11238futuristic-robotic-hand-for-a-handshake.jpg'),
+        'packages/san_theme/images/11238futuristic-robotic-hand-for-a-handshake.jpg'),
     width: 249,
     height: 165,
   );
@@ -376,7 +384,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_young_man_using_browsing_smarthphone = Image(
     image: AssetImage(
-        'assets/images/13612young-man-using-browsing-smartphone.jpg'),
+        'packages/san_theme/images/13612young-man-using-browsing-smartphone.jpg'),
     width: 249,
     height: 165,
   );
@@ -386,7 +394,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_successful_business_group_of_people_at_work = Image(
     image: AssetImage(
-        'assets/images/14638successful-business-group-of-people-at-work.jpg'),
+        'packages/san_theme/images/14638successful-business-group-of-people-at-work.jpg'),
     width: 249,
     height: 165,
   );
@@ -396,7 +404,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_sporty_man_look_at_his_smartwatch = Image(
     image: AssetImage(
-        'assets/images/19402sporty-man-looking-at-his-smartwatch.jpg'),
+        'packages/san_theme/images/19402sporty-man-looking-at-his-smartwatch.jpg'),
     width: 249,
     height: 165,
   );
@@ -405,8 +413,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_female_hands_making_use_of_tablet = Image(
-    image:
-        AssetImage('assets/images/22847female-hands-making-use-of-tablet.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/22847female-hands-making-use-of-tablet.jpg'),
     width: 249,
     height: 165,
   );
@@ -415,8 +423,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_business_people_signing_a_contract = Image(
-    image:
-        AssetImage('assets/images/25387business-people-signing-a-contract.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/25387business-people-signing-a-contract.jpg'),
     width: 249,
     height: 165,
   );
@@ -426,7 +434,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_man_measuring_with_yellow_meassure_tape = Image(
     image: AssetImage(
-        'assets/images/25535man-measuring-with-yellow-meassure-tape.jpg'),
+        'packages/san_theme/images/25535man-measuring-with-yellow-meassure-tape.jpg'),
     width: 249,
     height: 165,
   );
@@ -436,7 +444,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_young_redhead_woman_talking_on_phone = Image(
     image: AssetImage(
-        'assets/images/26612young-redhead-woman-talking-on-phone.jpg'),
+        'packages/san_theme/images/26612young-redhead-woman-talking-on-phone.jpg'),
     width: 249,
     height: 165,
   );
@@ -446,7 +454,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_caucassian_businesswoman_working_with_papers = Image(
     image: AssetImage(
-        'assets/images/27489caucasian-businesswoman-working-with-papers.jpg'),
+        'packages/san_theme/images/27489caucasian-businesswoman-working-with-papers.jpg'),
     width: 249,
     height: 165,
   );
@@ -455,7 +463,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_young_trendy_hipster_woman = Image(
-    image: AssetImage('assets/images/35383a-young-trendy-hipster-woman.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/35383a-young-trendy-hipster-woman.jpg'),
     width: 249,
     height: 165,
   );
@@ -464,7 +473,7 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_business_meeting = Image(
-    image: AssetImage('assets/images/38592business-meeting.jpg'),
+    image: AssetImage('packages/san_theme/images/38592business-meeting.jpg'),
     width: 249,
     height: 165,
   );
@@ -475,7 +484,7 @@ class SanImage {
   static const Image small_caucassian_call_center_woman_help_desk_service =
       Image(
     image: AssetImage(
-        'assets/images/42003caucasian-call-center-woman-help-desk-service.jpg'),
+        'packages/san_theme/images/42003caucasian-call-center-woman-help-desk-service.jpg'),
     width: 249,
     height: 165,
   );
@@ -484,7 +493,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_start_up_business_team = Image(
-    image: AssetImage('assets/images/42236start-up-business-team.jpg'),
+    image:
+        AssetImage('packages/san_theme/images/42236start-up-business-team.jpg'),
     width: 249,
     height: 165,
   );
@@ -493,7 +503,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_people_joined_hand_together = Image(
-    image: AssetImage('assets/images/43861people-joined-hand-together.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/43861people-joined-hand-together.jpg'),
     width: 249,
     height: 165,
   );
@@ -502,7 +513,7 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_meeting_room = Image(
-    image: AssetImage('assets/images/48972meeting-room.jpg'),
+    image: AssetImage('packages/san_theme/images/48972meeting-room.jpg'),
     width: 249,
     height: 165,
   );
@@ -521,7 +532,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_two_business_people_with_wheelchair_and_vr = Image(
     image: AssetImage(
-        'assets/images/50016two-business-people-with-wheelchair-and-vr.jpg'),
+        'packages/san_theme/images/50016two-business-people-with-wheelchair-and-vr.jpg'),
     width: 249,
     height: 165,
   );
@@ -530,8 +541,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_caucasian_woman_with_a_smartphone = Image(
-    image:
-        AssetImage('assets/images/52049caucasian-woman-with-a-smartphone.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/52049caucasian-woman-with-a-smartphone.jpg'),
     width: 249,
     height: 165,
   );
@@ -541,7 +552,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_male_manager_presenting_at_informal_meeting = Image(
     image: AssetImage(
-        'assets/images/62403male-manager-presenting-at-informal-meeting.jpg'),
+        'packages/san_theme/images/62403male-manager-presenting-at-informal-meeting.jpg'),
     width: 249,
     height: 165,
   );
@@ -551,7 +562,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_busy_person_writing_maby_sticky_notes = Image(
     image: AssetImage(
-        'assets/images/66165busy-person-writing-many-sticky-notes.jpg'),
+        'packages/san_theme/images/66165busy-person-writing-many-sticky-notes.jpg'),
     width: 249,
     height: 165,
   );
@@ -561,7 +572,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_doctor_hands_with_prescription_at_clinic = Image(
     image: AssetImage(
-        'assets/images/74213doctor-hands-with-prescription-at-clinic.jpg'),
+        'packages/san_theme/images/74213doctor-hands-with-prescription-at-clinic.jpg'),
     width: 249,
     height: 165,
   );
@@ -571,7 +582,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_startup_business_team_brainstorming = Image(
     image: AssetImage(
-        'assets/images/79455startup-business-team-brainstorming.jpg'),
+        'packages/san_theme/images/79455startup-business-team-brainstorming.jpg'),
     width: 249,
     height: 165,
   );
@@ -580,7 +591,8 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_friends_holding_hands_together = Image(
-    image: AssetImage('assets/images/82661friends-holding-hands-together.jpg'),
+    image: AssetImage(
+        'packages/san_theme/images/82661friends-holding-hands-together.jpg'),
     width: 249,
     height: 165,
   );
@@ -590,7 +602,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_colleagues_working_together_in_modern_office = Image(
     image: AssetImage(
-        'assets/images/83602colleagues-working-together-in-modern-office.jpg'),
+        'packages/san_theme/images/83602colleagues-working-together-in-modern-office.jpg'),
     width: 249,
     height: 165,
   );
@@ -600,7 +612,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_business_team_giving_group_high_five_in_park = Image(
     image: AssetImage(
-        'assets/images/86479business-team-giving-group-high-five-in-park.jpg'),
+        'packages/san_theme/images/86479business-team-giving-group-high-five-in-park.jpg'),
     width: 249,
     height: 165,
   );
@@ -610,7 +622,7 @@ class SanImage {
   ///Image Size: [width = 249px, height = 165px]
   static const Image small_businessman_entrepeneur_motivation = Image(
     image: AssetImage(
-        'assets/images/97075businessman-enterpreneur-motivation.jpg'),
+        'packages/san_theme/images/97075businessman-enterpreneur-motivation.jpg'),
     width: 249,
     height: 165,
   );
