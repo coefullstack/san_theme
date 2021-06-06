@@ -42,7 +42,7 @@ class SanTextThemes {
 
   //Tipography definition
   static const TextStyle appBar =
-      TextStyle(fontFamily: 'packages/san_theme/SantanderText');
+      TextStyle(fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle headerTitle = TextStyle(
       fontSize: 36, fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle sectionTitle = TextStyle(

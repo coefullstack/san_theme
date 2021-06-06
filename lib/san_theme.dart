@@ -8,7 +8,7 @@ import 'san_colors.dart';
 
 ///Santander Default Theme
 ///
-///Definition of principal styles of whole appplication.
+///Definition of principal styles of whole application.
 ///
 ///This defines the following styles:
 ///
