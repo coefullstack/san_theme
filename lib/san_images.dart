@@ -44,7 +44,7 @@ class SanImage {
   ///Image of a man swimming on asphalt road. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
-  static const Image medium_strong_man_swim_on_ashpalt_road = Image(
+  static const Image medium_strong_man_swim_on_asphalt_road = Image(
     image: AssetImage('lib/images/6247strong-man-swim-on-asphalt-road.jpg',
         package: 'san_theme'),
     width: 536,
@@ -75,7 +75,7 @@ class SanImage {
   ///Image of young man using a smarthphone. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
-  static const Image medium_young_man_using_browsing_smarthphone = Image(
+  static const Image medium_young_man_using_browsing_smartphone = Image(
     image: AssetImage('lib/images/13612young-man-using-browsing-smartphone.jpg',
         package: 'san_theme'),
     width: 536,
@@ -96,7 +96,7 @@ class SanImage {
   ///Image of sporty man looking at his smartwatch. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
-  static const Image medium_sporty_man_look_at_his_smartwatch = Image(
+  static const Image medium_sporty_man_looking_at_his_smartwatch = Image(
     image: AssetImage(
         'lib/images/19402sporty-man-looking-at-his-smartwatch.jpg',
         package: 'san_theme'),
@@ -127,7 +127,7 @@ class SanImage {
   ///Image of man measuring with yellow measure tape. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
-  static const Image medium_man_measuring_with_yellow_meassure_tape = Image(
+  static const Image medium_man_measuring_with_yellow_measure_tape = Image(
     image: AssetImage(
         'lib/images/25535man-measuring-with-yellow-meassure-tape.jpg',
         package: 'san_theme'),
@@ -149,8 +149,7 @@ class SanImage {
   ///Image of caucassian woman working with papers. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
-  static const Image medium_caucassian_businesswoman_working_with_papers =
-      Image(
+  static const Image medium_caucasian_businesswoman_working_with_papers = Image(
     image: AssetImage(
         'lib/images/27489caucasian-businesswoman-working-with-papers.jpg',
         package: 'san_theme'),
@@ -264,7 +263,7 @@ class SanImage {
   ///Image og busy person writing sticky notes. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
-  static const Image medium_busy_person_writing_maby_sticky_notes = Image(
+  static const Image medium_busy_person_writing_many_sticky_notes = Image(
     image: AssetImage(
         'lib/images/66165busy-person-writing-many-sticky-notes.jpg',
         package: 'san_theme'),
@@ -369,7 +368,7 @@ class SanImage {
   ///Image of a man swimming on asphalt road. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 249px, height = 165px]
-  static const Image small_strong_man_swim_on_ashpalt_road = Image(
+  static const Image small_strong_man_swim_on_asphalt_road = Image(
     image: AssetImage('lib/images/6247strong-man-swim-on-asphalt-road.jpg',
         package: 'san_theme'),
     width: 249,
@@ -452,7 +451,7 @@ class SanImage {
   ///Image of man measuring with yellow measure tape. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 249px, height = 165px]
-  static const Image small_man_measuring_with_yellow_meassure_tape = Image(
+  static const Image small_man_measuring_with_yellow_measure_tape = Image(
     image: AssetImage(
         'lib/images/25535man-measuring-with-yellow-meassure-tape.jpg',
         package: 'san_theme'),
@@ -474,7 +473,7 @@ class SanImage {
   ///Image of caucassian woman working with papers. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 249px, height = 165px]
-  static const Image small_caucassian_businesswoman_working_with_papers = Image(
+  static const Image small_caucasian_businesswoman_working_with_papers = Image(
     image: AssetImage(
         'lib/images/27489caucasian-businesswoman-working-with-papers.jpg',
         package: 'san_theme'),
@@ -588,7 +587,7 @@ class SanImage {
   ///Image og busy person writing sticky notes. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 249px, height = 165px]
-  static const Image small_busy_person_writing_maby_sticky_notes = Image(
+  static const Image small_busy_person_writing_many_sticky_notes = Image(
     image: AssetImage(
         'lib/images/66165busy-person-writing-many-sticky-notes.jpg',
         package: 'san_theme'),
