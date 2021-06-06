@@ -16,8 +16,8 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_agent_in_shirt_with_headset = Image(
-    image: AssetImage(
-        'packages/san_theme/images/3016agent-in-shirt-with-headset.jpg'),
+    image: AssetImage('images/3016agent-in-shirt-with-headset.jpg',
+        package: 'san_theme'),
     width: 536,
     height: 300,
   );
