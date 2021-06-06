@@ -21,7 +21,7 @@ dev_dependencies:
 
 flutter:
   assets:
-    - packages/san_theme/images/ 
+    - lib/images/ 
 
   fonts:
     - family: SantanderText
