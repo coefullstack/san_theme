@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:san_theme/san_colors.dart';
 
 class SantanderFont {
-  static const String santander = 'packages/san_theme/Santander';
+  static const String santander = 'packages/san_theme/SantanderText';
 }
 
 ///Santander default Text Themes
@@ -42,42 +42,42 @@ class SanTextThemes {
 
   //Tipography definition
   static const TextStyle appBar =
-      TextStyle(fontFamily: 'packages/san_theme/Santander');
+      TextStyle(fontFamily: 'packages/san_theme/SantanderText');
   static const TextStyle headerTitle = TextStyle(
-      fontSize: 136, fontFamily: 'packages/san_theme/SantanderHeadline');
+      fontSize: 36, fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle sectionTitle = TextStyle(
-      fontSize: 132,
+      fontSize: 32,
       color: SanColors.sanStandard12,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle moduleTitle = TextStyle(
-      fontSize: 118,
+      fontSize: 18,
       color: SanColors.sanStandard9,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle moduleLinkTitle = TextStyle(
-      fontSize: 118,
+      fontSize: 18,
       color: SanColors.sanStandard4,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle bodyTitle = TextStyle(
-      fontSize: 118,
+      fontSize: 18,
       color: SanColors.sanStandard18,
       fontFamily: 'packages/san_theme/SantanderHeadline');
   static const TextStyle bodyOutstandingText = TextStyle(
-      fontSize: 116,
+      fontSize: 16,
       color: SanColors.sanStandard7,
       fontWeight: FontWeight.bold,
-      fontFamily: 'packages/san_theme/Santander');
+      fontFamily: 'packages/san_theme/SantanderText');
   static const TextStyle bodyText = TextStyle(
-      fontSize: 116,
+      fontSize: 16,
       color: SanColors.sanStandard7,
-      fontFamily: 'packages/san_theme/Santander');
+      fontFamily: 'packages/san_theme/SantanderText');
   static const TextStyle bodyTextOutstandingModule = TextStyle(
-      fontSize: 112,
+      fontSize: 12,
       color: SanColors.sanStandard8,
-      fontFamily: 'packages/san_theme/Santander');
+      fontFamily: 'packages/san_theme/SantanderText');
   static const TextStyle categoryHashtag =
-      TextStyle(fontSize: 112, fontFamily: 'packages/san_theme/Santander');
+      TextStyle(fontSize: 12, fontFamily: 'packages/san_theme/SantanderText');
   static const TextStyle informationLink = TextStyle(
-      fontSize: 112,
+      fontSize: 12,
       color: SanColors.sanStandard4,
-      fontFamily: 'packages/san_theme/Santander');
+      fontFamily: 'packages/san_theme/SantanderText');
 }
