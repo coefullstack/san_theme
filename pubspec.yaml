@@ -21,15 +21,17 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/images/ 
+    - lib/images/ 
 
   fonts:
-    - family: Santander
+    - family: SantanderText
       fonts:
-        - asset: fonts/SantanderText-Bold.ttf
-        - asset: fonts/SantanderText-Italic.ttf
+        - asset: lib/fonts/SantanderText-Regular.ttf
+        - asset: lib/fonts/SantanderText-Bold.ttf
+          weight: 700
+        - asset: lib/fonts/SantanderText-Italic.ttf
           style: italic
     - family: SantanderHeadline
       fonts:
-        - asset: fonts/SantanderHeadline-Regular.ttf    
+        - asset: lib/fonts/SantanderHeadline-Regular.ttf    
 

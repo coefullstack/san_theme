@@ -1,14 +1,13 @@
 library san_theme;
 
 import 'package:flutter/material.dart';
-
 import 'package:san_theme/san_text_themes.dart';
-
-import 'san_colors.dart';
+import 'package:san_theme/san_colors.dart';
+import 'package:san_theme/san_images.dart';
 
 ///Santander Default Theme
 ///
-///Definition of principal styles of whole appplication.
+///Definition of principal styles of whole application.
 ///
 ///This defines the following styles:
 ///
