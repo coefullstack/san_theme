@@ -27,6 +27,7 @@ class SanTheme {
   static final ThemeData themeData = ThemeData(
       appBarTheme: AppBarTheme(
           color: SanColors.sanStandard12, titleTextStyle: SanTextThemes.appBar),
+      fontFamily: 'packages/san_theme/SantanderText',
       primaryColor: SanColors.sanStandard12,
       accentColor: SanColors.sanStandard12,
       accentColorBrightness: Brightness.light,
