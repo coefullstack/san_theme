@@ -1,5 +1,9 @@
 # Santander Flutter Theme
 
+Provides an easy way to have a Santander styled flavor in your Flutter app by default. Check this working example:
+
+https://github.com/coefullstack/ejemplos/tree/master/ejemplo_theme
+
 ## Installation
 
 Three simple steps:
