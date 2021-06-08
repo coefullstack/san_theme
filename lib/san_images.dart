@@ -156,6 +156,11 @@ class SanImage {
     return list;
   }
 
+  static const DecorationImage backgroundLogin = DecorationImage(
+      image: AssetImage('lib/images/3016agent-in-shirt-with-headset.jpg',
+          package: 'san_theme'),
+      fit: BoxFit.cover);
+
   ///Image of an agent wearing a shirt and a headset. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
