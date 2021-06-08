@@ -25,10 +25,16 @@ class SanForm {
     border: OutlineInputBorder(
       borderRadius: const BorderRadius.all(Radius.circular(6.0)),
     ),
+    disabledBorder: OutlineInputBorder(
+        borderRadius: const BorderRadius.all(Radius.circular(6.0)),
+        borderSide: BorderSide(
+          color: Colors.grey,
+          width: 2.0,
+        )),
     enabledBorder: OutlineInputBorder(
       borderRadius: const BorderRadius.all(Radius.circular(6.0)),
       borderSide: BorderSide(
-        color: SanColors.sanStandard12,
+        color: Colors.black,
         width: 2.0,
       ),
     ),
