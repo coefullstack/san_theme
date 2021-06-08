@@ -6,12 +6,12 @@ class SanForm {
 
   static const InputDecoration sanSearchEsInput = InputDecoration(
     hintText: 'Buscar',
-    icon: Icon(Icons.search),
+    prefixIcon: Icon(Icons.search),
     border: OutlineInputBorder(
-      borderRadius: const BorderRadius.all(Radius.circular(4.0)),
+      borderRadius: const BorderRadius.all(Radius.circular(6.0)),
     ),
     enabledBorder: OutlineInputBorder(
-      borderRadius: const BorderRadius.all(Radius.circular(4.0)),
+      borderRadius: const BorderRadius.all(Radius.circular(6.0)),
       borderSide: BorderSide(
         color: SanColors.sanStandard12,
         width: 2.0,
@@ -21,12 +21,12 @@ class SanForm {
 
   static const InputDecoration sanSearchEnInput = InputDecoration(
     hintText: 'Search',
-    icon: Icon(Icons.search),
+    prefixIcon: Icon(Icons.search),
     border: OutlineInputBorder(
-      borderRadius: const BorderRadius.all(Radius.circular(4.0)),
+      borderRadius: const BorderRadius.all(Radius.circular(6.0)),
     ),
     enabledBorder: OutlineInputBorder(
-      borderRadius: const BorderRadius.all(Radius.circular(4.0)),
+      borderRadius: const BorderRadius.all(Radius.circular(6.0)),
       borderSide: BorderSide(
         color: SanColors.sanStandard12,
         width: 2.0,
