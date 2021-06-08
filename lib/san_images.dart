@@ -10,7 +10,8 @@ import 'package:flutter/cupertino.dart';
 ///
 ///Throws a get error if images is not defined.
 class SanImage {
-  List<Image> allMediumImagesList() {
+  SanImage._();
+  static List<Image> allMediumImagesList() {
     List<Image> list = [
       SanImage.medium_agent_in_shirt_with_headset,
       SanImage.medium_business_meeting,
@@ -48,7 +49,7 @@ class SanImage {
     return list;
   }
 
-  List<Image> allSmallImagesList() {
+  static List<Image> allSmallImagesList() {
     List<Image> list = [
       SanImage.small_agent_in_shirt_with_headset,
       SanImage.small_business_meeting,
