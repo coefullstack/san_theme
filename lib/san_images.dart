@@ -157,7 +157,7 @@ class SanImage {
   }
 
   static const DecorationImage backgroundLogin = DecorationImage(
-      image: AssetImage('lib/images/3016agent-in-shirt-with-headset.jpg',
+      image: AssetImage('lib/images/a574d65fd67843998c3affff7f6d4489.jpg',
           package: 'san_theme'),
       fit: BoxFit.cover);
 
