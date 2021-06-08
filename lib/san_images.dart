@@ -12,6 +12,151 @@ import 'package:flutter/cupertino.dart';
 class SanImage {
   SanImage._();
 
+  List<Image> allMediumImagesList() {
+    List<Image> list = [
+      SanImage.medium_agent_in_shirt_with_headset,
+      SanImage.medium_business_meeting,
+      SanImage.medium_business_people_signing_a_contract,
+      SanImage.medium_business_team_giving_group_high_five_in_park,
+      SanImage.medium_businessman_entrepeneur_motivation,
+      SanImage.medium_busy_person_writing_many_sticky_notes,
+      SanImage.medium_caucasian_businesswoman_working_with_papers,
+      SanImage.medium_caucasian_woman_with_a_smartphone,
+      SanImage.medium_caucassian_call_center_woman_help_desk_service,
+      SanImage.medium_colleagues_working_together_in_modern_office,
+      SanImage.medium_doctor_hands_with_prescription_at_clinic,
+      SanImage.medium_female_hands_making_use_of_tablet,
+      SanImage.medium_friends_holding_hands_together,
+      SanImage.medium_futuristic_robot_hand_for_a_handshake,
+      SanImage.medium_happy_business_people_in_office,
+      SanImage.medium_male_manager_presenting_at_informal_meeting,
+      SanImage.medium_man_and_woman_working_in_the_office,
+      SanImage.medium_man_measuring_with_yellow_measure_tape,
+      SanImage.medium_meeting_room,
+      SanImage.medium_people_at_meeting,
+      SanImage.medium_people_joined_hand_together,
+      SanImage.medium_sporty_man_looking_at_his_smartwatch,
+      SanImage.medium_start_up_business_team,
+      SanImage.medium_startup_business_team_brainstorming,
+      SanImage.medium_strong_man_swim_on_asphalt_road,
+      SanImage.medium_successful_business_group_of_people_at_work,
+      SanImage.medium_tire_in_snow,
+      SanImage.medium_two_business_people_with_wheelchair_and_vr,
+      SanImage.medium_young_man_using_browsing_smartphone,
+      SanImage.medium_young_redhead_woman_talking_on_phone,
+      SanImage.medium_young_trendy_hipster_woman
+    ];
+
+    return list;
+  }
+
+  List<Image> allSmallImagesList() {
+    List<Image> list = [
+      SanImage.small_agent_in_shirt_with_headset,
+      SanImage.small_business_meeting,
+      SanImage.small_business_people_signing_a_contract,
+      SanImage.small_business_team_giving_group_high_five_in_park,
+      SanImage.small_businessman_entrepeneur_motivation,
+      SanImage.small_busy_person_writing_many_sticky_notes,
+      SanImage.small_caucasian_businesswoman_working_with_papers,
+      SanImage.small_caucasian_woman_with_a_smartphone,
+      SanImage.small_caucassian_call_center_woman_help_desk_service,
+      SanImage.small_colleagues_working_together_in_modern_office,
+      SanImage.small_doctor_hands_with_prescription_at_clinic,
+      SanImage.small_female_hands_making_use_of_tablet,
+      SanImage.small_friends_holding_hands_together,
+      SanImage.small_futuristic_robot_hand_for_a_handshake,
+      SanImage.small_happy_business_people_in_office,
+      SanImage.small_male_manager_presenting_at_informal_meeting,
+      SanImage.small_man_and_woman_working_in_the_office,
+      SanImage.small_man_measuring_with_yellow_measure_tape,
+      SanImage.small_meeting_room,
+      SanImage.small_people_at_meeting,
+      SanImage.small_people_joined_hand_together,
+      SanImage.small_sporty_man_look_at_his_smartwatch,
+      SanImage.small_start_up_business_team,
+      SanImage.small_startup_business_team_brainstorming,
+      SanImage.small_strong_man_swim_on_asphalt_road,
+      SanImage.small_successful_business_group_of_people_at_work,
+      SanImage.small_tire_in_snow,
+      SanImage.small_two_business_people_with_wheelchair_and_vr,
+      SanImage.small_young_man_using_browsing_smarthphone,
+      SanImage.small_young_redhead_woman_talking_on_phone,
+      SanImage.small_young_trendy_hipster_woman
+    ];
+
+    return list;
+  }
+
+  List<Image> allImagesList() {
+    List<Image> list = [
+      SanImage.small_agent_in_shirt_with_headset,
+      SanImage.small_business_meeting,
+      SanImage.small_business_people_signing_a_contract,
+      SanImage.small_business_team_giving_group_high_five_in_park,
+      SanImage.small_businessman_entrepeneur_motivation,
+      SanImage.small_busy_person_writing_many_sticky_notes,
+      SanImage.small_caucasian_businesswoman_working_with_papers,
+      SanImage.small_caucasian_woman_with_a_smartphone,
+      SanImage.small_caucassian_call_center_woman_help_desk_service,
+      SanImage.small_colleagues_working_together_in_modern_office,
+      SanImage.small_doctor_hands_with_prescription_at_clinic,
+      SanImage.small_female_hands_making_use_of_tablet,
+      SanImage.small_friends_holding_hands_together,
+      SanImage.small_futuristic_robot_hand_for_a_handshake,
+      SanImage.small_happy_business_people_in_office,
+      SanImage.small_male_manager_presenting_at_informal_meeting,
+      SanImage.small_man_and_woman_working_in_the_office,
+      SanImage.small_man_measuring_with_yellow_measure_tape,
+      SanImage.small_meeting_room,
+      SanImage.small_people_at_meeting,
+      SanImage.small_people_joined_hand_together,
+      SanImage.small_sporty_man_look_at_his_smartwatch,
+      SanImage.small_start_up_business_team,
+      SanImage.small_startup_business_team_brainstorming,
+      SanImage.small_strong_man_swim_on_asphalt_road,
+      SanImage.small_successful_business_group_of_people_at_work,
+      SanImage.small_tire_in_snow,
+      SanImage.small_two_business_people_with_wheelchair_and_vr,
+      SanImage.small_young_man_using_browsing_smarthphone,
+      SanImage.small_young_redhead_woman_talking_on_phone,
+      SanImage.small_young_trendy_hipster_woman,
+      SanImage.medium_agent_in_shirt_with_headset,
+      SanImage.medium_business_meeting,
+      SanImage.medium_business_people_signing_a_contract,
+      SanImage.medium_business_team_giving_group_high_five_in_park,
+      SanImage.medium_businessman_entrepeneur_motivation,
+      SanImage.medium_busy_person_writing_many_sticky_notes,
+      SanImage.medium_caucasian_businesswoman_working_with_papers,
+      SanImage.medium_caucasian_woman_with_a_smartphone,
+      SanImage.medium_caucassian_call_center_woman_help_desk_service,
+      SanImage.medium_colleagues_working_together_in_modern_office,
+      SanImage.medium_doctor_hands_with_prescription_at_clinic,
+      SanImage.medium_female_hands_making_use_of_tablet,
+      SanImage.medium_friends_holding_hands_together,
+      SanImage.medium_futuristic_robot_hand_for_a_handshake,
+      SanImage.medium_happy_business_people_in_office,
+      SanImage.medium_male_manager_presenting_at_informal_meeting,
+      SanImage.medium_man_and_woman_working_in_the_office,
+      SanImage.medium_man_measuring_with_yellow_measure_tape,
+      SanImage.medium_meeting_room,
+      SanImage.medium_people_at_meeting,
+      SanImage.medium_people_joined_hand_together,
+      SanImage.medium_sporty_man_looking_at_his_smartwatch,
+      SanImage.medium_start_up_business_team,
+      SanImage.medium_startup_business_team_brainstorming,
+      SanImage.medium_strong_man_swim_on_asphalt_road,
+      SanImage.medium_successful_business_group_of_people_at_work,
+      SanImage.medium_tire_in_snow,
+      SanImage.medium_two_business_people_with_wheelchair_and_vr,
+      SanImage.medium_young_man_using_browsing_smartphone,
+      SanImage.medium_young_redhead_woman_talking_on_phone,
+      SanImage.medium_young_trendy_hipster_woman
+    ];
+
+    return list;
+  }
+
   ///Image of an agent wearing a shirt and a headset. Default Image of Santander Bank.
   ///
   ///Image Size: [width = 500px, height = 300px]
