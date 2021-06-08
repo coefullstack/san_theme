@@ -366,7 +366,7 @@ class SanImage {
   ///
   ///Image Size: [width = 500px, height = 300px]
   static const Image medium_happy_business_people_in_office = Image(
-    image: AssetImage('49539happy-business-people-in-office.jpg',
+    image: AssetImage('lib/images/49539happy-business-people-in-office.jpg',
         package: 'san_theme'),
     width: 536,
     height: 300,
@@ -690,7 +690,7 @@ class SanImage {
   ///
   ///Image Size: [width = 249px, height = 165px]
   static const small_happy_business_people_in_office = Image(
-    image: AssetImage('49539happy-business-people-in-office.jpg',
+    image: AssetImage('lib/images/49539happy-business-people-in-office.jpg',
         package: 'san_theme'),
     width: 249,
     height: 165,
